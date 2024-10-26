@@ -1,7 +1,8 @@
-<h1 align="center">sup it's dosed af</h1>
+<h1 align="center">sup it's dosedaf</h1>
 <h3 align="center">a not really passionate backend dev</h3>
 
-- i'm currently learning **nixconf, dsa and web3 introduction.**
+- i'm currently learning 
+**nixconf, dsa and web3 introduction.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
