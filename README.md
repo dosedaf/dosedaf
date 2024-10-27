@@ -1,8 +1,11 @@
 <h1 align="center">sup it's dosedaf lol</h1>
 <h3 align="center">a not really passionate backend dev</h3>
 
+<p align="center">
 - i'm currently learning 
 **nixconf, dsa and web3 introduction.**
+</p>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
