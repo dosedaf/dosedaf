@@ -2,8 +2,8 @@
 <h3 align="center">a not really passionate backend dev</h3>
 
 <p align="center">
-i'm currently learning 
-<strong>nixconf, dsa and web3 introduction.</strong>
+I am currently learning 
+<strong>BitTorrent protocol, Node JS, Go and Infra.</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
