@@ -2,8 +2,8 @@
 <h3 align="center">a not really passionate backend dev</h3>
 
 <p align="center">
-I am currently learning 
-<strong>BitTorrent protocol, Node JS, Go and Infra.</strong>
+I am currently 
+<strong>locked in.</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
