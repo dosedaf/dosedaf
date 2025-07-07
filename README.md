@@ -3,7 +3,7 @@
 
 <p align="center">
 I am currently 
-<strong>locked in.</strong>
+<strong>currentling</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
