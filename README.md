@@ -13,7 +13,7 @@
 
 <p align="center">
 I am currently working on 
-<strong><a href="github.com/dosedaf/kyasshu"> Kyasshu </a></strong>
+<strong><a href="https://github.com/dosedaf/kyasshu"> Kyasshu </a></strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
