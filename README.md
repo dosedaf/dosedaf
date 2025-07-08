@@ -1,5 +1,5 @@
 <h1 align="center">sup it's dosedaf lol</h1>
-[![wakatime](https://wakatime.com/badge/user/a373bd1a-9f07-4350-bb7a-ca71edf6197c.svg)](https://wakatime.com/badge/user/a373bd1a-9f07-4350-bb7a-ca71edf6197c)
+<a href="https://wakatime.com/@a373bd1a-9f07-4350-bb7a-ca71edf6197c"><img src="https://wakatime.com/badge/user/a373bd1a-9f07-4350-bb7a-ca71edf6197c.svg" alt="Total time coded since Jul 28 2023" /></a>
 <h3 align="center">a not really passionate backend dev</h3>
 
 <p align="center">
