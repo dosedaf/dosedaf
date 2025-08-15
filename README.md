@@ -12,7 +12,7 @@
 <h3 align="center">a not really passionate backend dev</h3>
 
 <p align="center">
-I am currently learning
+Yes it is a RHCP reference. I am currently learning
 <strong>Machine Learning!</strong>
 </p>
 
