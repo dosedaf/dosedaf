@@ -12,8 +12,8 @@
 <h3 align="center">a not really passionate backend dev</h3>
 
 <p align="center">
-I am currently working on 
-<strong><a href="https://github.com/dosedaf/kyasshu"> Kyasshu </a></strong>
+I am currently learning
+<strong>Machine Learning!</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
