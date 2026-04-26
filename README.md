@@ -5,7 +5,4 @@
 <a href="https://www.youtube.com/channel/UCJdD_ywqepH9jsAwp3vCFPw">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJdD_ywqepH9jsAwp3vCFPw?style=flat&logo=youtube">
   </a>
-  <a href="https://github.com/dosedaf?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dosedaf?style=flat&logo=github">
-  </a>
 </p>
