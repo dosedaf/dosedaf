@@ -4,8 +4,5 @@
 <a href="https://wakatime.com/@a373bd1a-9f07-4350-bb7a-ca71edf6197c"><img src="https://wakatime.com/badge/user/a373bd1a-9f07-4350-bb7a-ca71edf6197c.svg" alt="Total time coded since Jul 28 2023" /></a>
 <a href="https://www.youtube.com/channel/UCJdD_ywqepH9jsAwp3vCFPw">
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJdD_ywqepH9jsAwp3vCFPw?style=flat&logo=youtube">
-  </a>
-<a href="roadmap.sh/u/kjaskar">
-    <img src="roadmap.svg" alt="roamdap.sh account">
 </a>
 </p>
