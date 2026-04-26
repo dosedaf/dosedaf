@@ -6,6 +6,6 @@
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJdD_ywqepH9jsAwp3vCFPw?style=flat&logo=youtube">
   </a>
 <a href="roadmap.sh/u/kjaskar">
-    <img src="https://img.logokit.com/roadmap.sh" alt="roamdap.sh account">
+    <img src="roadmap.svg" alt="roamdap.sh account">
 </a>
 </p>
