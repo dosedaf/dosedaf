@@ -1,4 +1,4 @@
-<h1 align="center">sup it's dosedaf lol</h1>
+<h1 align="center">sup it's <a href="https://dosedaf.github.io/mee/">dosedaf</a> lol</h1>
 <h3 align="center">peptides backed data engineer</h3>
 <p align="center">
 <a href="https://wakatime.com/@a373bd1a-9f07-4350-bb7a-ca71edf6197c"><img src="https://wakatime.com/badge/user/a373bd1a-9f07-4350-bb7a-ca71edf6197c.svg" alt="Total time coded since Jul 28 2023" /></a>
@@ -6,4 +6,4 @@
     <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJdD_ywqepH9jsAwp3vCFPw?style=flat&logo=youtube">
 </a>
 </p>
-<a href="https://dosedaf.github.io/mee/">mee</a>
+
