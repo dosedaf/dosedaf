@@ -4,5 +4,5 @@
 <a href="https://wakatime.com/@a373bd1a-9f07-4350-bb7a-ca71edf6197c"><img src="https://wakatime.com/badge/user/a373bd1a-9f07-4350-bb7a-ca71edf6197c.svg" alt="Total time coded since Jul 28 2023" /></a>
 </p>
 <p align="center">
-    I write things on [my blog](dosedaf.github.io)
+    I write things on [my blog](https://dosedaf.github.io)
 </p>
